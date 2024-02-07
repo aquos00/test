@@ -31,8 +31,8 @@ div.buttons {
   margin-bottom: 2.5%;
 }
 div.buttons button {
-  width: 5%;
-  min-width: 65px;
+  width: 10%;
+  min-width: 70px;
 }
 div.buttons button#ja, button#ja2 {
   background-color: darkgreen;
@@ -58,10 +58,13 @@ main {
     flex-direction: column;
 }
 main img {
-    width: 50%;
+    width: 75%;
     margin-bottom: 5%;
 }
 h6 {
     margin-top: 1%;
     text-decoration: underline;
+}
+h2 {
+    text-align: center;
 }
