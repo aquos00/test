@@ -66,5 +66,5 @@ h6 {
     text-decoration: underline;
 }
 h2 {
-    text-align: center;
+    text-align: center !important;
 }
